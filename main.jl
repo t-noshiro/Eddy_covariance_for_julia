@@ -1,7 +1,7 @@
 ###########################################################
 #This program was made for EC calculation in julia.
 #data will be calculated at your preferred time period.
-#Author: Docopypl (git)
+#Author: Taichi Noshiro
 ###########################################################
 #using Revise
 #using Profile
